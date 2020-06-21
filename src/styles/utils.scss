@@ -1,3 +1,10 @@
+// 반응형 디자인을 쉽게 만들어주는 라이브러리
+// yarn add incluide-media
+@import "~include-media/dist/include-media";
+// 색상 팔레트
+// yarn add open-color
+@import "~open-color/open-color";
+
 // 변수 사용하기
 $red: #fa5252;
 $orange: #fd7e14;
